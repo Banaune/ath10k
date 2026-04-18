@@ -1,3 +1,6 @@
+# Cloned for backup
+From: https://github.com/marcost2/ath10k
+
 # ath10k
 After fighting for a month and a half trying to get this WiFi chipset to work correctly in monitor mode (for the record, it would go into monitor mode but it wouldnt find or capture any packets, so injection wasnt working properly) but i remember it working with kali 2016.2, so i downloaded it, booted it and extracted the firmware for it. Replaced it and now it works! So im uploading this here if anyone has the same problem
 
